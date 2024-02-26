@@ -7,4 +7,4 @@ Aplicativo front-end, que faz a leitura de uma API externa, que traz dados de cl
 # Foto
 Foto de exemplo do projeto :
 
-![screenshot](screenshot.jpg)
+![foto](foto.jpg)
